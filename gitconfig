@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = romal-17@hotmail.com
+	name = romariomestra
